@@ -164,11 +164,11 @@ body {
 }
 .footer {
   clear: both;
-  margin-top: 80px;
   margin: 0 auto;
   /* background-color: #c5c6d0; */
   height: 300px;
   width: 1200px;
+  margin-top: 80px;
 }
 .footer-empty1-box {
   display: block;
