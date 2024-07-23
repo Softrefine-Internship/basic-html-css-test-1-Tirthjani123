@@ -1,0 +1,190 @@
+/* Background Color Main :  #C5C6D0*/
+div {
+  /* clear: both; */
+  background-color: #c5c6d0;
+}
+body {
+  background-color: white;
+}
+
+.main-container {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: white;
+  border-top: 50px solid #c5c6d0;
+}
+
+.heading-container {
+  width: 500px;
+  height: 50px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.container-2-main {
+  background-color: white;
+  margin: 0 auto;
+  /* clear: both; */
+}
+.fst-container {
+  height: 600px;
+  width: 590px;
+  display: block;
+  float: left;
+  margin-bottom: 30px;
+}
+.snd-container {
+  background-color: #c5c6d0;
+  display: block;
+  float: right;
+  width: 590px;
+  height: 600px;
+  margin-bottom: 30px;
+}
+.sub-header {
+  clear: both;
+  width: 650px;
+  height: 70px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.row-1st-4 {
+  background-color: white;
+  /* margin: 0/ auto/; */
+  height: 200px;
+  padding: 5px 20px;
+}
+.ele {
+  display: block;
+  float: left;
+  margin: 0 20px;
+  margin-bottom: 10px;
+  width: 240px;
+  height: 100%;
+}
+.sub-sub-header {
+  clear: both;
+  width: 850px;
+  height: 50px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.divider-3 {
+  margin: 0 auto;
+  height: 600px;
+  margin-bottom: 50px;
+}
+.empty-box1 {
+  background-color: white;
+  margin: 50px 20px;
+  height: 80%;
+  width: 25%;
+  float: left;
+  margin-left: 120px;
+}
+
+.empty-box2 {
+  background-color: white;
+  margin-top: 20px;
+  margin: 50px 20px;
+  height: 80%;
+  width: 25%;
+  float: left;
+}
+
+.empty-box3 {
+  background-color: white;
+  margin-top: 20px;
+  margin: 50px 20px;
+  height: 80%;
+  width: 25%;
+  float: left;
+}
+.empty-box-div1 {
+  margin: 0 auto;
+  margin: 20px;
+  height: 10%;
+}
+.empty-box-div2 {
+  margin: 0 auto;
+  margin: 20px;
+  height: 40%;
+}
+
+.empty-box-div3 {
+  margin: 0 auto;
+  margin: 20px;
+  height: 35%;
+}
+
+.about-us {
+  height: 600px;
+  background-color: white;
+}
+.about-us-header {
+  background-color: #c5c6d0;
+  margin: 0 auto;
+  width: 25%;
+  height: 10%;
+  margin-bottom: 50px;
+}
+.hori {
+  margin: 0 auto;
+  width: 50%;
+  margin-bottom: 20px;
+  height: 10%;
+}
+.horiBig {
+  margin: 0 auto;
+  width: 50%;
+  margin-bottom: 20px;
+  height: 30%;
+}
+.horiRow {
+  margin: 0 auto;
+  height: 10%;
+  width: 50%;
+  background-color: white;
+  margin-bottom: 50px;
+}
+.horiSmall1 {
+  display: block;
+  width: 48%;
+  height: 100%;
+  float: left;
+  /* margin-left: 10px; */
+}
+.horiSmall2 {
+  display: block;
+  width: 48%;
+  height: 100%;
+  float: right;
+}
+.footer {
+  clear: both;
+  margin-top: 80px;
+  margin: 0 auto;
+  /* background-color: #c5c6d0; */
+  height: 300px;
+  width: 1200px;
+}
+.footer-empty1-box {
+  display: block;
+  height: 260px;
+  float: left;
+  width: 550px;
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: white;
+}
+.empty-footer2-box {
+  display: block;
+  height: 260px;
+  float: right;
+  width: 550px;
+  margin-top: 20px;
+  margin-right: 20px;
+  background-color: white;
+}
